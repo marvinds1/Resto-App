@@ -1,0 +1,145 @@
+.resto-container {
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+  }
+  
+  .restotitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .restoposter {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .resto-info h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .resto-details {
+    margin-left: 20px;
+  }
+  
+  .resto-details h4 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px 0;
+  }
+  
+  .resto-details p {
+    margin: 5px 0;
+  }
+  
+  .resto-desc h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .resto-desc p {
+    margin-bottom: 10px;
+  }
+  
+  .resto-item {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  .resto-item-foods,
+  .resto-item-drinks {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .resto-item h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .resto-item ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+  
+  .resto-item li {
+    margin-bottom: 5px;
+  }
+  
+  .resto-review h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .resto-review-cust {
+    margin-bottom: 10px;
+  }
+  
+  .resto-name {
+    font-weight: bold;
+  }
+  
+  .resto-date {
+    font-style: italic;
+    color: gray;
+  }
+  
+  .resto-text {
+    margin-top: 5px;
+  }
+  
+  .add-review-form {
+    margin-top: 20px;
+  }
+  
+  .add-review-form h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .add-review-form div {
+    margin-bottom: 10px;
+  }
+  
+  .add-review-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .add-review-form input[type="text"],
+  .add-review-form input[type="date"],
+  .add-review-form textarea {
+    width: 100%;
+    padding: 5px;
+    font-size: 28px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-review-form button[type="submit"] {
+    min-width: 46px;
+    min-height: 46px;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #22678F;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-review-form button[type="submit"]:hover {
+    background-color: #1C4C73;
+  }
+  
+  .add-review-form button[type="submit"]:focus {
+    outline: none;
+  }
+  
