@@ -1,2 +1,2 @@
 # Resto-App
-Deplot my resto app
+Deploy my resto app
